@@ -1,0 +1,27 @@
+﻿.survey_warning {
+	font-weight: bold;
+	color:#C23434;
+}
+
+.survey_bar {
+    width: 50%;
+    height: 100% !important;
+    background-color: lightblue;
+    text-align: center !important;
+    transition: width 2s !important;
+    word-wrap: normal !important;
+}
+
+input[type="text"][name="name"]{
+	padding: 3px 8px;
+    font-size: 1.6em;
+    line-height: 100%;
+    height: 1.6em;
+}
+
+.setting_survey_it_link {
+    padding:15px;
+    line-height: 25px;
+    text-decoration: none;
+}
+
